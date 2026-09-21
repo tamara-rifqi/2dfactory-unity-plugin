@@ -441,28 +441,10 @@ com.2dfactory.unity/
 ├── README.md
 └── Third Party Notices.md
 ```
-# License
-
-2DFactory is released under the MIT License.
-
-See [`LICENSE.md`](LICENSE.md) for the complete license text.
-
-2DFactory also depends on third-party Unity packages. Their licenses and notices are separate from the 2DFactory license.
-
-See [`Third Party Notices.md`](Third%20Party%20Notices.md) for additional information.
-
----
-
-# Changelog
-
-See [`CHANGELOG.md`](CHANGELOG.md) for release history and changes between versions.
-
----
-
 # Credits
 
 **2DFactory**
 
 Copyright (c) 2026 Tama
 
-2DFactory is developed as a Blender-to-Unity workflow for sprite-based game development.
+2DFactory is developed as a Blender-to-GameEngine pipeline as sprite-based game development.

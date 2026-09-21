@@ -427,42 +427,20 @@ The package is organized into runtime and editor components:
 ```text
 com.2dfactory.unity/
 ├── Editor/
-│   ├── Settings/
 │   ├── AnimatedSprite/
+│   ├── ContextMenu/
+│   ├── JsonParser/
+│   ├── Settings/
 │   └── Utilities/
 ├── Runtime/
 │   └── Material/
-├── Documentation~/
+│   └── Controller/
+├── Resources/
 ├── CHANGELOG.md
 ├── LICENSE.md
 ├── README.md
 └── Third Party Notices.md
 ```
-
-The `Documentation~` directory contains additional documentation and is not included as a normal Unity project asset.
-
----
-
-# Documentation
-
-Additional documentation is available in the package:
-
-```text
-Documentation~/
-```
-
-Documentation includes more detailed information about:
-
-* JSON metadata
-* Sprite generation
-* Animation workflows
-* Socket data
-* Secondary textures
-* Project settings
-* Troubleshooting
-
----
-
 # License
 
 2DFactory is released under the MIT License.

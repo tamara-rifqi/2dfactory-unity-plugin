@@ -1,0 +1,20 @@
+{
+    "name": "2DFactory.Editor",
+    "rootNamespace": "",
+    "references": [
+		"2DFactory.Runtime",
+        "Newtonsoft.Json",
+		"Unity.2D.Sprite.Editor"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

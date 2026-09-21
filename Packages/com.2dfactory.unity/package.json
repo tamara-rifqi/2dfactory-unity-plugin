@@ -1,0 +1,17 @@
+{
+    "name": "com.2dfactory.unity",
+    "version": "1.0.0",
+    "displayName": "2DFactory",
+    "description": "Blender-to-Unity sprite workflow for creating Unity 2D/3D sprite assets from 2DFactory sprite sheets and JSON data.",
+    "unity": "6000.0",
+    "author": {
+        "name": "Tamara Rifqi",
+		"email": "tamarar.buss@gmail.com",
+		"url": "https://tamara-rifqi.itch.io/2dfactory"
+    },
+	"documentationUrl": "https://drive.google.com/file/d/19TgMfQLxBtxRZ8nAS0gEnZV491SWhs1_/view",
+    "dependencies": {
+        "com.unity.2d.sprite": "1.0.0",
+		"com.unity.nuget.newtonsoft-json": "2.0.0"
+    }
+}
